@@ -6,7 +6,7 @@ Faker==2.0.0
 ForgeryPy==0.1
 httpie==1.0.2
 idna==2.8
-Pygments==2.4.2
+Pygments==2.7.4
 requests==2.22.0
 selenium==3.141.0
 urllib3==1.25.3
